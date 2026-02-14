@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @DeniseWen
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning SQL and Python, including famous moduals like Pandas, Matplotlib, Scikit-Learn etc.
-- 🔢 I graduated with a master of science degree in Mathematics and worked in Math Edu field for a while.
-- 💼 Now: As a full-fledged Data Science Engineer and keep accumulating the experience and skills.
+# 👋 Hi, I’m @DeniseWen
+
+**Mathematics & Psychology Background | Data Science Engineer**
+
+I specialize in bridging **human behavior** and **technical execution**. With a 10-year foundation in Math and Psychology, I transform complex data into precise AI insights and robust software solutions.
+
+- 🛠 **Currently Focus**: Computer Vision (CV) & Data Pipeline Architecture.
+- 🔢 **Background**: M.S. in Mathematics; blending psychological insights with logical modeling.
+- ⚙️ **Tech Stack**: 
+  - **Languages**: Python
+  - **DevOps**: Docker, GitHub Actions (CI/CD)
+  - **AI Tools**: Claude, Gemini, GitHub Copilot
+- 💼 **Approach**: Problem-solving oriented; translating business pain points into scalable code.
 
 <!---
 DeniseWen/DeniseWen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
