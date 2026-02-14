@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DeniseWen
+# 👋 Hi, I’m @DeniseWen 🐈‍⬛
 
 **Mathematics & Psychology Background | Data Science Engineer**
 
